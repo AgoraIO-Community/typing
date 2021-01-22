@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Typing</string>
+    <string name="chat">Chat</string>
+    <string name="your_name_hint">Your Name</string>
+    <string name="friend_name_hint">Friend\'s Name</string>
+    <string name="start_chat">GO</string>
+    <string name="tips">type something</string>
+</resources>
