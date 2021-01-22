@@ -31,7 +31,7 @@ pod install
 
 #### iOS
 
-打开 `APIExample.xcworkspace` 并编辑 `KeyCenter.swift`，将你的 AppID 和 Token 分别替换到 `<#Your App Id#>` 与 `<#Temp Access Token#>`
+打开 `Typing.xcworkspace` 并编辑 `KeyCenter.swift`，将你的 AppID 和 Token 分别替换到 `<#Your App Id#>` 与 `<#Temp Access Token#>`
 
     ```
     let AppID: String = <#Your App Id#>
