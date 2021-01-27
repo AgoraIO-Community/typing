@@ -27,7 +27,7 @@ pod install
 1. 在[agora.io](https://dashboard.agora.io/signin/)创建一个开发者账号
 2. 前往后台页面，点击左部导航栏的 **项目 > 项目列表** 菜单
 3. 复制后台的 **App Id** 并备注，稍后启动应用时会用到它
-4. 在项目页面生成临时 **Access Token** (24 小时内有效)并备注，注意生成的 Token 只能适用于对应的频道名。
+4. 如果你想使用 **Access Token**，参考文档[agora.io](https://docs.agora.io/cn/Real-time-Messaging/rtm_token?platform=All%20Platforms#a-name--tokena%E4%BD%BF%E7%94%A8-rtm-token-%E9%89%B4%E6%9D%83)。
 
 #### iOS
 
